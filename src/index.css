@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* Logo Font */
-@font-face {
+/* @font-face {
     font-family: 'LemonMilk';
     src: url('/LEMONMILK-Bold.otf') format('opentype');
     font-weight: bold;
@@ -13,7 +13,7 @@
     src: url('/LEMONMILK-Medium.otf') format('opentype');
     font-weight: medium;
     font-style: medium;
-}
+} */
 
 @theme {
     --font-LemonMilk: LemonMilk, sans-serif;
@@ -30,7 +30,7 @@
     default: true;
 
     /* Intelligence Green */
-    --color-primary: rgb(253,199,0);
+    --color-primary: rgb(20,157,216);
     /* Energy Blue */
     --color-secondary: rgb(16, 16, 124);
     /* Daylight Orange */
